@@ -1,5 +1,5 @@
 # car-center
-Solicion a la prueba de desarrollador
+Solución a la prueba de desarrollador
 
 El entregable numero 1, se encuentra en el archivo Prueba Desarrollador Oracle.docx
 Los entregables del 2 al 4, se encuentran en el archivo modelo ER.png
